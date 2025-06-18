@@ -1,0 +1,2 @@
+## Problema de tunneling
+Al momento de realizar el tunneling, obtenía un problema en el ingreso a través del puerto nodeport a nginx, era la etapa final del codelab, no se que pudo ocasionar el problema.
